@@ -1,0 +1,44 @@
+
+.barra{
+margin-right: 10%;
+margin-left: 80%;
+font-size:12px;
+margin-top: 2%;
+}
+.principal{
+    width: 100%;
+}
+
+img{
+    padding-top:15%;
+   align-content: center;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   display:block;
+}
+.centro{
+    text-align: center;
+}
+.redondo{
+    width: 40%;
+    height: 50px;
+    border-radius: 50px;
+    border-color:lightgrey;
+    border-width: 1px;
+}
+.botoes{
+    padding-top: 2%;
+}
+.botao{
+    width: 150px;
+    height: 30px;
+    background-color:rgba(243, 239, 239, 0.411);
+    border-width:0px; 
+    border-radius: 5px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.botao:hover{
+    border-width: 1px;
+    background-color: lightgray;
+}
